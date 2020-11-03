@@ -1,3 +1,4 @@
+#task_6
 a = int(input("a: "))
 b = int(input("b: "))
 i = 1

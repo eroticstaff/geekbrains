@@ -1,3 +1,4 @@
+#task_5
 v = int(input("Выручка: "))
 i = int(input("Издержки: "))
 if v > i:

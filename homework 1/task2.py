@@ -1,4 +1,4 @@
-#task2
+#task_2
 time = int(input("Input time: "))
 hours = time // 60 // 60
 minutes = time // 60 % 60
